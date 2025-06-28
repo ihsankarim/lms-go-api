@@ -1,0 +1,7 @@
+[build]
+    bin = "backend-brighted"
+    cmd = "go build -o backend-brighted ./cmd/main.go"
+    full_bin = "true"
+
+[run]
+    cmd = "./main"

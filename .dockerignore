@@ -1,0 +1,24 @@
+# Binaries
+main
+backend-brighted
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+vendor/
+
+# Editor & OS files
+*.log
+*.swp
+*.swo
+*.DS_Store
+.idea/
+.vscode/
+.env
+
+# Temp files
+tmp/
+*.tmp
